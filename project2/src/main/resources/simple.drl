@@ -2,5 +2,5 @@ rule "simple rule"
 
 when
 then
-System.out.println("A simple rule, now updated");
+System.out.println("A simple rule, now updated ... again");
 end
